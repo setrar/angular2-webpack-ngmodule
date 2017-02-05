@@ -6,7 +6,7 @@ Angular2, Webpack and Live NgModule example
 * I like how [webpack](webpack.github.io) allows one to customize the deployment of the Angular [SPA](https://en.wikipedia.org/wiki/Single-page_application) framework
 * While Google is still working on the [webpack addon](https://github.com/angular/angular-cli/issues/1656#issuecomment-239366723)  
 ```
-  Sorry but we will not expose the webpack confit for various reasons. 
+  Sorry but we will not expose the webpack confit(g) for various reasons. 
   An addon system is being designed that would allow such a thing but for the time being we won't expose it.
 ```
 
